@@ -1,4 +1,4 @@
-# Hi, I'm Abudrehman Kero! 👋
+# Hi, I'm Abdurehman Kero! 👋
 
 **Full Stack Application Developer** | **MERN Stack** | **Problem Solver**
 
