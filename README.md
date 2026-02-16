@@ -1,6 +1,6 @@
 # Hi, I'm Abudrehman Kero! 👋
 
-**Full Stack Application Developer** | **MERN Specialist** | **Problem Solver**
+**Full Stack Application Developer** | **MERN Stack** | **Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdukr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Keroabdurehman@gmail.com)
@@ -78,11 +78,6 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-## 📊 GitHub Stats
-
-![Abdurehman-Kero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurehman-Kero&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurehman-Kero&layout=compact&theme=tokyonight)
 
 ---
 
