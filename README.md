@@ -1,8 +1,11 @@
-# Hi, I'm Abudrehman Kero! 👋
+[Abdurehman CV.pdf](https://github.com/user-attachments/files/25340110/Abdurehman.CV.pdf)# Hi, I'm Abudrehman Kero! 👋
 
 Full Stack Application Developer | **MERN Specialist** | **Problem Solver**
 
-Portfolio | LinkedIn | GitHub | Keroabdurehman@gmail.com | +251 982 310 974
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdukr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Keroabdurehman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurehman-Kero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdurehman.com/)| Keroabdurehman@gmail.com | +251 982 310 974
 
 ---
 
@@ -74,14 +77,10 @@ Personal portfolio showcasing projects and skills.
 - **Features:** Clean design, responsive layout, project gallery
 
 ---
+📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=Abdurehman-Kero&show_icons=true&theme=tokyonight
 
-## 📊 GitHub Stats
-
-![Abudrehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
+https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurehman-Kero&layout=compact&theme=tokyonight
 
 ## 🌐 Languages
 
@@ -117,10 +116,10 @@ Personal portfolio showcasing projects and skills.
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdukr/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Keroabdurehman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurehman-Kero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdurehman.com/)
 
 ---
 
@@ -128,7 +127,4 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-**Note for you:** Don't forget to replace:
-- `YOUR_USERNAME` with your actual GitHub username
-- `YOUR_LINKEDIN_URL`, `YOUR_GITHUB_URL`, and `YOUR_PORTFOLIO_URL` with your actual profile links
-- The GitHub stats cards will only show data once you have commits and repositories (they'll show placeholder data at first)
+
