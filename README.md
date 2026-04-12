@@ -43,9 +43,6 @@ I'm a passionate Full Stack Developer with a unique dual background in Electrica
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
----
-
-Perfect! Now it matches your preferred format with Trello added at the end of Databases & Tools. ✅
 
 ## 💼 Featured Projects
 
