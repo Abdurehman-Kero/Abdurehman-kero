@@ -94,9 +94,8 @@ Personal portfolio showcasing projects and skills.
 
 ## 🎓 Education & Training
 
-- **Dual Bachelor's Degrees** (2023–2027 Expected)
+- **Bachelor's Degrees** (2023–2027 Expected)
   - B.Sc. Electrical & Computer Engineering (Computer Stream), Addis Ababa University
-  - B.Sc. Computer Science, CPU Business and IT College
 
 - **Professional Training** (2023–2025)
   - Full Stack Application Development, Evangadi Tech
