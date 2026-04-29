@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** specializing in the **MERN stack** (MySQL, Express.js, React, Node.js) with a unique dual background in **Electrical & Computer Engineering** and **Computer Science**. I build production-ready platforms for the Ethiopian market and have experience leading development teams.
+I'm a **Full Stack Developer** specializing in the **MERN stack** (MySQL, Express.js, React, Node.js) with a background in **Electrical & Computer Engineering** and **Computer Science**. I build production-ready platforms for the Ethiopian market and have experience leading development teams.
 
 - 🔭 **Currently working as:** Backend Developer at Zulu Tech — building APIs, optimizing databases, and shipping reliable backend features in an Agile team
 - 🌱 **Currently learning:** FastAPI, Python, Django, and cloud deployment
