@@ -1,4 +1,5 @@
 # Hi, I'm Abdurehman Kero! 👋
+
 **Full Stack Developer** | **MERN Specialist** | **Tech Lead**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdukr/)
