@@ -34,7 +34,7 @@ Full stack developer and final-year Electrical & Computer Engineering student at
 - Optimized relational database schema and queries, cutting infrastructure compute overhead by **22%**.
 
 **Technical Lead & Backend Architect** · DEMS Project, AAU
-- Led a **30-person** engineering team to ship a full digital event ticketing and analytics platform ([live demo](https://dinkenesh-event-management-system.vercel.app)).
+- Led a **30-person** engineering team to ship a full digital event ticketing and analytics platform .
 - Built a QR-based check-in system that cut check-in time by **80%** and removed **94%** of paper-based processes.
 - Integrated the Chapa payment gateway and role-based access control (RBAC).
 
@@ -53,7 +53,7 @@ Full stack developer and final-year Electrical & Computer Engineering student at
 | **ShegerEvent** | Event ecosystem for organizers, attendees, admins, and security staff with QR ticket validation, analytics dashboards, and Chapa payments | React, Node.js, PostgreSQL |
 | **Osneaks** | E-commerce storefront with filtering, cart, wishlist, and reviews, plus an admin CMS for orders, customers, and analytics | Stripe |
 | **NilePixel Technologies** | High-performance agency website with a custom CMS for services, portfolio, blogs, and job applications, plus instant inquiry notifications | React, TypeScript, Node.js |
-| **Chala Mobile** | Inventory, repair tracking, dashboards, and PDF receipts for a live mobile-retail client ([live demo](https://chalamobile.abdurehman.com)) | MERN |
+| **Chala Mobile** | Inventory, repair tracking, dashboards, and PDF receipts for a live mobile-retail client
 | **HT Travel Agency** | Frontend for a travel booking and visa assistance platform for travelers from Addis Ababa | Frontend |
 
 ---
