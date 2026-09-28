@@ -15,7 +15,7 @@ Full stack developer and final-year Electrical & Computer Engineering student at
 
 - 🔭 **Currently:** Software Engineer at AfterQuery Experts (freelance, remote)
 - 💡 **Strengths:** full-stack web apps, API design, database optimization, payments, QR systems, team leadership
-- 🤝 **Open to:** full-stack internships and engineering roles
+- 🤝 **Open to:** full-stack  and engineering roles
 
 ---
 
